@@ -5325,7 +5325,7 @@ type: number
 group: Minimum value
 label: Hide below value
 */
-#define VAR_VALUE_MINVALUE 0
+#define VAR_VALUE_MINVALUE 5,000
 
 /*@ define:input
 type: boolean
